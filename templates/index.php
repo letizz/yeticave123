@@ -23,7 +23,7 @@
                 <h3 class="lot__title"><a class="text-link" href="lot.html"><?=$val['name']?></a></h3>
                 <div class="lot__state">
                     <div class="lot__rate">
-                        <span class="lot__amount">Стартовая цена</span>
+                        <span class="lot__amount">куолдрпаудлаолдацлуодла</span>
                         <span class="lot__cost"><?= sum_format($val['price'], true)?></span>
                     </div>
                     <div class="lot__timer timer">
